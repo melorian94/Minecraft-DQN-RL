@@ -1,6 +1,6 @@
 # Minecraft-DQN-RL
 
-This repository provides and in-depth analysis of several Deep Q-Network (DQN) approaches in terms of performance and hardware footprint. Our target mission is a partially observable navigation problem, modeled in Minecraft, a state-of-the-art training and testing environment for research focusing on lifelong learning. The aim of this work is to compare several approaches fairly on a common task.
+This repository provides and in-depth analysis of several Deep Q-Network (DQN) approaches in terms of performance and hardware footprint. Our target mission is a partially observable navigation problem, modeled in Minecraft, a state-of-the-art training and testing environment for research focusing on lifelong learning. The aim of this work is to compare several approaches fairly on a common task and provide several performance measurements.
 
 # Prerequisites
 
